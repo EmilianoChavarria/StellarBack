@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tx-1",
+    "transactionHash": "0x1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x5y6z",
+    "from": "0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb",
+    "to": "0x1234567890abcdef1234567890abcdef12345678",
+    "courseId": "1",
+    "courseName": "Introducción a Blockchain",
+    "amount": "0.05",
+    "currency": "ETH",
+    "amountUSD": "150",
+    "status": "confirmed",
+    "timestamp": "2024-03-15T10:30:00Z",
+    "blockNumber": 19234567,
+    "gasUsed": "0.002"
+  },
+  {
+    "id": "tx-2",
+    "transactionHash": "0x2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x5y6z7a",
+    "from": "0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb",
+    "to": "0x1234567890abcdef1234567890abcdef12345678",
+    "courseId": "3",
+    "courseName": "NFTs: Creación y Comercialización",
+    "amount": "0.04",
+    "currency": "ETH",
+    "amountUSD": "120",
+    "status": "confirmed",
+    "timestamp": "2024-02-28T14:20:00Z",
+    "blockNumber": 19123456,
+    "gasUsed": "0.002"
+  },
+  {
+    "id": "tx-3",
+    "transactionHash": "0x3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x5y6z7a8b",
+    "from": "0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb",
+    "to": "0x1234567890abcdef1234567890abcdef12345678",
+    "courseId": "6",
+    "courseName": "Trading de Criptomonedas",
+    "amount": "0.05",
+    "currency": "ETH",
+    "amountUSD": "150",
+    "status": "confirmed",
+    "timestamp": "2024-01-20T09:15:00Z",
+    "blockNumber": 19012345,
+    "gasUsed": "0.002"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "blockchain",
+    "name": "Blockchain",
+    "description": "Aprende los fundamentos de la tecnología blockchain",
+    "icon": "shield",
+    "courseCount": 45
+  },
+  {
+    "id": "desarrollo",
+    "name": "Desarrollo",
+    "description": "Desarrollo de smart contracts y DApps",
+    "icon": "code",
+    "courseCount": 38
+  },
+  {
+    "id": "nfts",
+    "name": "NFTs",
+    "description": "Creación, venta y comercialización de NFTs",
+    "icon": "image",
+    "courseCount": 27
+  },
+  {
+    "id": "defi",
+    "name": "DeFi",
+    "description": "Finanzas descentralizadas y protocolos DeFi",
+    "icon": "trending-up",
+    "courseCount": 32
+  },
+  {
+    "id": "trading",
+    "name": "Trading",
+    "description": "Trading de criptomonedas y análisis técnico",
+    "icon": "bar-chart",
+    "courseCount": 41
+  },
+  {
+    "id": "web3",
+    "name": "Web3",
+    "description": "Desarrollo de aplicaciones Web3",
+    "icon": "globe",
+    "courseCount": 29
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "id": "nft-1",
+    "tokenId": "1001",
+    "name": "Certificado: Introducción a Blockchain",
+    "description": "Certificado de finalización del curso Introducción a Blockchain. Este NFT verifica que el titular ha completado exitosamente todas las lecciones y evaluaciones del curso.",
+    "courseId": "1",
+    "courseName": "Introducción a Blockchain",
+    "instructor": "María González",
+    "completionDate": "2024-03-15",
+    "image": "/placeholder.svg?height=600&width=600",
+    "attributes": [
+      { "trait_type": "Curso", "value": "Introducción a Blockchain" },
+      { "trait_type": "Nivel", "value": "Principiante" },
+      { "trait_type": "Instructor", "value": "María González" },
+      { "trait_type": "Fecha de Emisión", "value": "2024-03-15" },
+      { "trait_type": "Calificación", "value": "95/100" },
+      { "trait_type": "Duración", "value": "8 horas" }
+    ],
+    "contractAddress": "0x1234567890abcdef1234567890abcdef12345678",
+    "blockchain": "Ethereum",
+    "standard": "ERC-721",
+    "verified": true
+  },
+  {
+    "id": "nft-2",
+    "tokenId": "1002",
+    "name": "Certificado: NFTs - Creación y Comercialización",
+    "description": "Certificado de finalización del curso NFTs: Creación y Comercialización. Demuestra competencia en la creación, venta y marketing de NFTs.",
+    "courseId": "3",
+    "courseName": "NFTs: Creación y Comercialización",
+    "instructor": "Ana Martínez",
+    "completionDate": "2024-02-28",
+    "image": "/placeholder.svg?height=600&width=600",
+    "attributes": [
+      { "trait_type": "Curso", "value": "NFTs: Creación y Comercialización" },
+      { "trait_type": "Nivel", "value": "Principiante" },
+      { "trait_type": "Instructor", "value": "Ana Martínez" },
+      { "trait_type": "Fecha de Emisión", "value": "2024-02-28" },
+      { "trait_type": "Calificación", "value": "92/100" },
+      { "trait_type": "Duración", "value": "6 horas" }
+    ],
+    "contractAddress": "0x1234567890abcdef1234567890abcdef12345678",
+    "blockchain": "Ethereum",
+    "standard": "ERC-721",
+    "verified": true
+  },
+  {
+    "id": "nft-3",
+    "tokenId": "1003",
+    "name": "Certificado: Trading de Criptomonedas",
+    "description": "Certificado de finalización del curso Trading de Criptomonedas. Acredita conocimientos en análisis técnico y estrategias de trading profesional.",
+    "courseId": "6",
+    "courseName": "Trading de Criptomonedas",
+    "instructor": "Diego Morales",
+    "completionDate": "2024-01-20",
+    "image": "/placeholder.svg?height=600&width=600",
+    "attributes": [
+      { "trait_type": "Curso", "value": "Trading de Criptomonedas" },
+      { "trait_type": "Nivel", "value": "Intermedio" },
+      { "trait_type": "Instructor", "value": "Diego Morales" },
+      { "trait_type": "Fecha de Emisión", "value": "2024-01-20" },
+      { "trait_type": "Calificación", "value": "88/100" },
+      { "trait_type": "Duración", "value": "9 horas" }
+    ],
+    "contractAddress": "0x1234567890abcdef1234567890abcdef12345678",
+    "blockchain": "Ethereum",
+    "standard": "ERC-721",
+    "verified": true
+  }
+]

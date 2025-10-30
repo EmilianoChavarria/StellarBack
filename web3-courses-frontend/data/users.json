@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "email": "demo@example.com",
+    "name": "Usuario Demo",
+    "walletAddress": "0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb",
+    "role": "student",
+    "enrolledCourses": ["1", "3", "6"],
+    "completedCourses": ["1", "3", "6"],
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": "2",
+    "email": "instructor@example.com",
+    "name": "María González",
+    "walletAddress": "0x8ba1f109551bD432803012645Ac136ddd64DBA72",
+    "role": "instructor",
+    "createdCourses": ["1"],
+    "totalStudents": 1250,
+    "totalRevenue": "62.5",
+    "createdAt": "2023-11-20"
+  }
+]
